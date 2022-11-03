@@ -6,7 +6,7 @@
         "template--14433849245742__6da8ff78-5fad-4ca5-ac2f-25ad57f7a6ac-1666148117bb39641b-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/woman-practicing-her-skincare-routine.jpg",
+            "image": "shopify:\/\/shop_images\/team-sales-business-meeting.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -46,7 +46,6 @@
         "template--14433849245742__bf6df5e3-29b3-459e-b411-5d390ec562ec-16673202845ad27632-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cosmetic-containers.jpg",
             "title": "Column",
             "link_label": "",
             "link": "",
@@ -58,7 +57,6 @@
         "template--14433849245742__bf6df5e3-29b3-459e-b411-5d390ec562ec-16673202845ad27632-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/flatlay-of-makeup-on-a-round-white-plate.jpg",
             "title": "Column",
             "link_label": "",
             "link": "",
@@ -70,7 +68,6 @@
         "df3f228f-813d-4a44-9b6e-d919b0919000": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blush-makeup-and-candles.jpg",
             "title": "Column",
             "link_label": "",
             "link": "",
@@ -172,7 +169,6 @@
         "template--14433849245742__7485359a-b730-48ca-bdb1-922ef886db3e-1666161172a23f6711-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner-1.jpg",
         "height": "square",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -247,7 +243,6 @@
         "template--14433849245742__d77f3772-c4db-4b4b-9b0c-2633476d6f8c-1666161172a23f6711-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner-2.jpg",
         "height": "square",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -300,7 +295,6 @@
         "template--14433849245742__7be3e2ec-f40a-48d0-998d-e7fea6e3cd05-1666161172bd468042-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/client-3.png",
             "title": "",
             "icon": "none",
             "icon_position": "left",
@@ -312,7 +306,6 @@
         "template--14433849245742__7be3e2ec-f40a-48d0-998d-e7fea6e3cd05-1666161172bd468042-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/client-2.png",
             "title": "",
             "icon": "none",
             "icon_position": "left",
@@ -324,7 +317,6 @@
         "template--14433849245742__7be3e2ec-f40a-48d0-998d-e7fea6e3cd05-1666161172bd468042-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/client-1.png",
             "title": "",
             "icon": "none",
             "icon_position": "left",
@@ -336,7 +328,6 @@
         "bd494f52-6be2-4618-a982-2deb6a6c6394": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/client-4.png",
             "title": "",
             "icon": "none",
             "icon_position": "left",
@@ -348,7 +339,6 @@
         "31c5399d-62be-4b5a-885e-53bd274e348d": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/client-5.png",
             "title": "",
             "icon": "none",
             "icon_position": "left",
@@ -360,7 +350,6 @@
         "9512014a-53d5-4656-a79d-ae19b7f615c1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/client-6.png",
             "title": "",
             "icon": "none",
             "icon_position": "left",
